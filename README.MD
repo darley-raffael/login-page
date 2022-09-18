@@ -1,2 +1,13 @@
 # CRIANDO UMA PÁGINA DE LOGIN
-![Print Resultado](/print-screen.png)
+
+![Print Resultado](./.github/print-screen.png)
+
+## 🛠 Ferramentas 
+---
+- HTML
+- CSS
+- Git e Github
+
+## 🔗 Acesse o link
+---
+
